@@ -1,0 +1,9 @@
+.post{
+    padding: 10px;
+    margin: 25px auto;
+    max-width: 50%;
+    border-radius: 10px;
+    box-shadow: 0 0 5px;
+    background-color: darkgrey;
+    color: brown;
+}
